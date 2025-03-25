@@ -76,9 +76,9 @@ The Applied Data Science Lab is designed to develop industry-relevant skills in 
 
 ## 📫 Contact
 
-- 📧 Email: [jckato@live.com](mailto:jckato@live.com)
+- 📧 Email: [jckato@live.com](mailto:j.ilimikato.com)
 - 💼 LinkedIn: [linkedin.com/in/jikato](https://www.linkedin.com/in/jikato)
-- 🐍 GitHub: [github.com/jesseilimi](https://github.com/jesseilimi)
+- 🐍 GitHub: [github.com/jesseilimi](https://github.com/jessekato)
 
 ---
 
