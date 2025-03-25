@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="https://github.com/Jessekato/World-Quant-University-Applied-Data-Science/raw/main/images/WQU_logo_color.png" width="300" alt="WorldQuant Logo">
+      </a>
+</p>
 
 
-# 🌐 WorldQuant University - Applied Data Science Lab
+
+
+<p align="center">
+  
+  # 🌐 WorldQuant University - Applied Data Science Lab
+  
+  </a>
+</p>
+
 <p align="center">
   <img width="210" alt="applied-data-science-lab 2 (3)" src="https://github.com/user-attachments/assets/f692038b-1144-4091-b7ae-549e47f2a461" />
     </a>
@@ -8,14 +20,19 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/a894557e-9f8b-49dc-a103-d695eb9a97c8/public_url">
-    <img src="https://images.credly.com/size/680x680/images/0f41a850-e891-4038-9807-19d4ca39c064/image.png" width="150" alt="WorldQuant Badge"/>
+ 
   </a>
 </p>
 
-By WQUWiki - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117894204
-📜 **Certificate of Completion**  
+
+## 📜 **Certificate of Completion**  
+
 I’m proud to share that I have successfully completed the **Applied Data Science Lab** by [WorldQuant University](https://wqu.org/) — a rigorous, project-based program that strengthened my real-world data science skills through eight hands-on projects.  
-🎓 [View my Credly badge](https://www.credly.com/badges/a894557e-9f8b-49dc-a103-d695eb9a97c8/public_url)
+
+<p align="center">
+  🎓 [View my Credly badge](https://www.credly.com/badges/a894557e-9f8b-49dc-a103-d695eb9a97c8/public_url)
+   </a>
+</p>
 
 ---
 
@@ -82,10 +99,12 @@ The Applied Data Science Lab is designed to develop industry-relevant skills in 
 
 ## 📫 Contact
 
-- 📧 Email: [jckato@live.com](mailto:j.ilimikato.com)
+- 📧 Email: [j.ilimikato@gmail.com](mailto:j.ilimikato.com)
 - 💼 LinkedIn: [linkedin.com/in/jikato](https://www.linkedin.com/in/jikato)
-- 🐍 GitHub: [github.com/jesseilimi](https://github.com/jessekato)
+- 🐍 GitHub: [github.com/jessekato](https://github.com/jessekato)
 
 ---
 
 > *“This lab has not only honed my technical data science skills, but also taught me to think critically and creatively about solving real-world problems with data.”*
+
+
