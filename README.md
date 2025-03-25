@@ -1,4 +1,5 @@
 # 🌐 WorldQuant University - Applied Data Science Lab
+<img width="210" alt="applied-data-science-lab 2 (3)" src="https://github.com/user-attachments/assets/f692038b-1144-4091-b7ae-549e47f2a461" />
 
 <p align="center">
   <a href="https://www.credly.com/badges/a894557e-9f8b-49dc-a103-d695eb9a97c8/public_url">
